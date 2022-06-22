@@ -39,7 +39,7 @@ const Container = styled.div`
   justify-content: center;
   height: 100vh;
   width: 100vw;
-  background-color: #d32274;
+  background-color: #1bd46e;
   gap: 5rem;
   img {
     height: 20vh;
@@ -49,7 +49,7 @@ const Container = styled.div`
     border-radius: 5rem;
     border: none;
     background-color: black;
-    color: #d32274;
+    color: #1bd46e;
     font-size: 1.4rem;
     cursor: pointer;
   }
